@@ -1,0 +1,12 @@
+{
+    "name": "loop/user-service",
+    "require": {
+        "laravel/framework": "^8.83"
+    },
+    "authors": [
+        {
+            "name": "Mohammad Eskandari",
+            "email": "good_teacher_ey@hotmail.com"
+        }
+    ]
+}
